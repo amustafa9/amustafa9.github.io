@@ -6,7 +6,7 @@ main:
     conference: Under review.
     pdf: https://eartharxiv.org/repository/view/5558/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:O1vu9fbpHXoJ:scholar.google.com/&output=citation&scisdr=ClH85rl1ENa4jH2-Cbg:AFWwaeYAAAAAZY27EbiEJdmq_hNb0P3kAVh9tj0&scisig=AFWwaeYAAAAAZY27EbnvI6iwRZLOLocwIzf_Vn8&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/RMM.png
+    image: ./assets/teaser/tgrs-fault-attention.png
 
   - title: Explainable machine learning for hydrocarbon prospect risking
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Klaas Koster, and Ghassan AlRegib
