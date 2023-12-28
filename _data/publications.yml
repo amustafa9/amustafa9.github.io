@@ -5,7 +5,6 @@ main:
     conference_short: Preprint
     conference: Under review.
     pdf: https://eartharxiv.org/repository/view/5558/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:O1vu9fbpHXoJ:scholar.google.com/&output=citation&scisdr=ClH85rl1ENa4jH2-Cbg:AFWwaeYAAAAAZY27EbiEJdmq_hNb0P3kAVh9tj0&scisig=AFWwaeYAAAAAZY27EbnvI6iwRZLOLocwIzf_Vn8&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/teaser/tgrs-fault-attention.png
 
   - title: Explainable machine learning for hydrocarbon prospect risking
@@ -13,24 +12,21 @@ main:
     conference_short: Geophysics
     conference: Geophysics, vol. 89, no. 1 (2023), Pg. WA13-WA24
     pdf: https://arxiv.org/pdf/2212.07563
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:DYmxIZ2Ce_wJ:scholar.google.com/&output=citation&scisdr=ClH85rl1ENa4jH259p4:AFWwaeYAAAAAZY287p6SQLVLRM1brGa-PppUNT4&scisig=AFWwaeYAAAAAZY287q5lI8fPQ5_c2eHgBETM-TM&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/RMM.png
+    image: ./assets/teaser/geo-xai-dhi.png
 
   - title: Active learning with deep autoencoders for seismic facies interpretation
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, and Ghassan AlRegib
     conference_short: Geophysics
     conference: Geophysics, vol. 88, no. 4 (2023), Pg. IM77-IM86
     pdf: https://library.seg.org/doi/am-pdf/10.1190/geo2022-0353.1
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sntrsz5cCEMJ:scholar.google.com/&output=citation&scisdr=ClH85rl1ENa4jH27JRA:AFWwaeYAAAAAZY2-PRDoqMmC2sRfWWpOHpt1_JY&scisig=AFWwaeYAAAAAZY2-PQZa290PSNKO_YUSp5lVuBA&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/RMM.png
+    image: ./assets/teaser/geo-al.png
 
   - title: Joint Learning for Spatial Context-Based Seismic Inversion of Multiple Datasets for Improved Generalizability and Robustness
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Motaz Alfarraj, and Ghassan AlRegib
     conference_short: Geophysics
     conference: Geophysics, vol. 86, no. 4 (2021), Pg. O37-O48 
     pdf: https://arxiv.org/pdf/2104.02750.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dIOh6ITaNuEJ:scholar.google.com/&output=citation&scisdr=ClH85rl1ENa4jH26r6o:AFWwaeYAAAAAZY2_t6oLUK6pdBgn4geA26tp02I&scisig=AFWwaeYAAAAAZY2_t9XW--pKF1qp_9-fUTNFwI0&scisf=4&ct=citation&cd=-1&hl=en
-    image: https://img.yliu.me/teaser/RMM.png
+    image: ./assets/teaser/geo-weight-share.png
     
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Zongwei Zhou<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
