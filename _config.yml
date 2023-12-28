@@ -1,18 +1,18 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
-affiliation_link: https://cs.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yliu538 (at) jhu.edu
+title: Ahmad Mustafa
+position: Machine Learning and Analytics Engineer
+affiliation: Occidental Petroleum
+affiliation_link: 
+affiliation_logo: 
+email: ahmad_mustafa (at) oxy.com
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+keywords: ahmad mustafa, mustafa ahmad, amustafa9
+canonical: 
+description: Ahmad Mustafa is currently an ML Engineer at OXY based in Houston, TX. He holds PhD and Masters degrees in Electrical Engineering at the Georgia Institute of Technology.
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
