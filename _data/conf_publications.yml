@@ -31,7 +31,7 @@ main:
     code: https://arxiv.org/pdf/2212.07563
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
-  - title: Man-recon&colon Manifold learning for reconstruction with deep autoencoder for smart seismic interpretation
+  - title: Man-recon &colon; Manifold learning for reconstruction with deep autoencoder for smart seismic interpretation
     authors: <strong>Ahmad Mustafa</strong> and Ghassan AlRegib
     conference_short: ICIP
     conference: 2021 IEEE International Conference on Image Processing (ICIP).
@@ -47,7 +47,7 @@ main:
     code: https://arxiv.org/pdf/2212.07563
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
-  - title: Joint learning for seismic inversion&colon An acoustic impedance estimation case study
+  - title: Joint learning for seismic inversion &colon; An acoustic impedance estimation case study
     authors: <strong>Ahmad Mustafa</strong> and Ghassan AlRegib
     conference_short: SEG
     conference: SEG International Exposition and Annual Meeting, 2020.
