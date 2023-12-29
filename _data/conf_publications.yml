@@ -1,14 +1,14 @@
 main:
 
   - title: Counterfactual uncertainty for high dimensional tabular dataset
-    authors: Prithwijit Chowdhury, <strong>Ahmad Mustafa</strong>, Mohit Prabhushankar, and Ghassan AlRegib
+    authors: Prithwijit Chowdhury<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, <strong>Ahmad Mustafa</strong>, Mohit Prabhushankar, and Ghassan AlRegib
     conference_short: IMAGE
     conference: SEG International Exposition and Annual Meeting, 2023.
     pdf: https://library.seg.org/doi/abs/10.1190/image2023-3916797.1
     image: https://img.yliu.me/teaser/cvpr23_1.png
   
   - title: Patient aware active learning for fine-grained oct classification
-    authors: Yash-yee Logan, Ryan Benkert, <strong>Ahmad Mustafa</strong>, and Ghassan AlRegib
+    authors: Yash-yee Logan<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, Ryan Benkert, <strong>Ahmad Mustafa</strong>, and Ghassan AlRegib
     conference_short: ICIP
     conference: 2022 IEEE International Conference on Image Processing (ICIP).
     pdf: https://arxiv.org/pdf/2206.11485
@@ -16,49 +16,48 @@ main:
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
   - title: Explainable machine learning for hydrocarbon prospect risking
-    authors: <strong>Ahmad Mustafa</strong> and Ghassan AlRegib
+    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
     conference_short: SEG
     conference: SEG International Exposition and Annual Meeting, 2022.
     pdf: https://arxiv.org/pdf/2206.11485
-    code: https://arxiv.org/pdf/2212.07563
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
   - title: A comparative study of transfer learning methodologies and causality for seismic inversion with temporal convolutional networks
-    authors: <strong>Ahmad Mustafa</strong> and Ghassan AlRegib
+    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
     conference_short: SEG
     conference: SEG International Exposition and Annual Meeting, 2021.
     pdf: https://eartharxiv.org/repository/object/5310/download/10457/
-    code: https://arxiv.org/pdf/2212.07563
+    code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
   - title: Man-recon &colon; Manifold learning for reconstruction with deep autoencoder for smart seismic interpretation
-    authors: <strong>Ahmad Mustafa</strong> and Ghassan AlRegib
+    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
     conference_short: ICIP
     conference: 2021 IEEE International Conference on Image Processing (ICIP).
     pdf: https://arxiv.org/pdf/2212.07568
-    code: https://arxiv.org/pdf/2212.07563
+    code: https://github.com/amustafa9/active-learning-interpretation
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
   - title: Spatiotemporal modeling of seismic images for acoustic impedance estimation
-    authors: <strong>Ahmad Mustafa</strong> and Ghassan AlRegib
+    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
     conference_short: SEG
     conference: SEG International Exposition and Annual Meeting, 2020.
     pdf: https://arxiv.org/pdf/2006.15472
-    code: https://arxiv.org/pdf/2212.07563
+    code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
   - title: Joint learning for seismic inversion &colon; An acoustic impedance estimation case study
-    authors: <strong>Ahmad Mustafa</strong> and Ghassan AlRegib
+    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
     conference_short: SEG
     conference: SEG International Exposition and Annual Meeting, 2020.
     pdf: https://arxiv.org/pdf/2006.15474
-    code: https://arxiv.org/pdf/2212.07563
+    code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
   - title: Estimation of acoustic impedance from seismic data using temporal convolutional network
-    authors: <strong>Ahmad Mustafa</strong>, Motaz Alfarraj, and Ghassan AlRegib
+    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Motaz Alfarraj, and Ghassan AlRegib
     conference_short: SEG
     conference: SEG International Exposition and Annual Meeting, 2019.
     pdf: https://arxiv.org/pdf/1906.02684.pdf?trk=public_post_comment-text
-    code: https://arxiv.org/pdf/2212.07563
+    code: https://github.com/olivesgatech/Estimation-of-acoustic-impedance-from-seismic-data-using-temporal-convolutional-network
     image: https://img.yliu.me/teaser/cvpr23_2.png    
