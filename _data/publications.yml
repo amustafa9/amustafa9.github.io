@@ -5,6 +5,7 @@ main:
     conference_short: Preprint
     conference: Under review.
     pdf: https://eartharxiv.org/repository/view/5558/
+    code: https://github.com/amustafa9/attention-fault-interpretation
     image: ./assets/teaser/tgrs-fault-attention.png
 
   - title: Explainable machine learning for hydrocarbon prospect risking
@@ -19,6 +20,7 @@ main:
     conference_short: Geophysics
     conference: Geophysics, vol. 88, no. 4 (2023), Pg. IM77-IM86
     pdf: https://library.seg.org/doi/am-pdf/10.1190/geo2022-0353.1
+    code: https://github.com/amustafa9/active-learning-interpretation
     image: ./assets/teaser/geo-al.png
 
   - title: Joint Learning for Spatial Context-Based Seismic Inversion of Multiple Datasets for Improved Generalizability and Robustness
@@ -26,6 +28,7 @@ main:
     conference_short: Geophysics
     conference: Geophysics, vol. 86, no. 4 (2021), Pg. O37-O48 
     pdf: https://arxiv.org/pdf/2104.02750.pdf
+    code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: ./assets/teaser/geo-weight-share.png
 
   # - title: Continual Detection Transformer for Incremental Object Detection
