@@ -50,8 +50,6 @@
 </ol>
 </div>
 
-# now listing conference publications
-
 <h2 style="margin: 60px 0px -15px;">Conference Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=x10e8yQAAAAJ&hl=en" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <div class="publications">
