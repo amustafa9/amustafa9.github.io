@@ -1,42 +1,15 @@
 main:
 
-  - title: Visual Attention Guided Learning with Incomplete Labels for Seismic Fault Interpretation
-    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Reza Rastegar, Tim Brown, Gregory Nunes, Daniel De Lilla, and Ghassan AlRegib
-    conference_short: Preprint
-    conference: Under review.
-    pdf: https://eartharxiv.org/repository/view/5558/
-    image: ./assets/teaser/tgrs-fault-attention.png
-
-  - title: Explainable machine learning for hydrocarbon prospect risking
-    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Klaas Koster, and Ghassan AlRegib
-    conference_short: Geophysics
-    conference: Geophysics, vol. 89, no. 1 (2023), Pg. WA13-WA24
-    pdf: https://arxiv.org/pdf/2212.07563
-    image: ./assets/teaser/geo-xai-dhi.png
-
-  - title: Active learning with deep autoencoders for seismic facies interpretation
-    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, and Ghassan AlRegib
-    conference_short: Geophysics
-    conference: Geophysics, vol. 88, no. 4 (2023), Pg. IM77-IM86
-    pdf: https://library.seg.org/doi/am-pdf/10.1190/geo2022-0353.1
-    image: ./assets/teaser/geo-al.png
-
-  - title: Joint Learning for Spatial Context-Based Seismic Inversion of Multiple Datasets for Improved Generalizability and Robustness
-    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Motaz Alfarraj, and Ghassan AlRegib
-    conference_short: Geophysics
-    conference: Geophysics, vol. 86, no. 4 (2021), Pg. O37-O48 
-    pdf: https://arxiv.org/pdf/2104.02750.pdf
-    image: ./assets/teaser/geo-weight-share.png
-    
-  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Zongwei Zhou<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
-  #   conference_short: MICCAI
-  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
-  #   code: https://github.com/MrGiovanni/ContinualLearning
-  #   bibtex: https://dblp.uni-trier.de/rec/conf/miccai/ZhangLCYLZ23.html?view=bibtex
-  #   image: https://img.yliu.me/teaser/miccai2023.png
-  #   notes: Early Accept
+  
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Zongwei Zhou<sup><i class="fa-regular fa-envelope fa-xs"></i></sup> <br>( <sup><i class="fa-regular fa-envelope fa-xs"></i></sup> Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://dblp.uni-trier.de/rec/conf/miccai/ZhangLCYLZ23.html?view=bibtex
+    image: https://img.yliu.me/teaser/miccai2023.png
+    notes: Early Accept
 
   # - title: Continual Detection Transformer for Incremental Object Detection
   #   authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht
