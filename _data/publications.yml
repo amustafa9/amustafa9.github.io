@@ -11,6 +11,13 @@ main:
     image: https://img.yliu.me/teaser/miccai2023.png
     notes: Early Accept
 
+  - title: Visual Attention Guided Learning with Incomplete Labels for Seismic Fault Interpretation
+    authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Reza Rastegar, Tim Brown, Gregory Nunes, Daniel De Lilla, and Ghassan AlRegib
+    conference_short: Preprint
+    conference: Under review.
+    pdf: https://eartharxiv.org/repository/view/5558/
+    image: ./assets/teaser/tgrs-fault-attention.png
+
   # - title: Continual Detection Transformer for Incremental Object Detection
   #   authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht
   #   conference_short: CVPR
