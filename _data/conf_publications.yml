@@ -21,6 +21,7 @@ main:
     conference: SEG International Exposition and Annual Meeting, 2022.
     pdf: https://arxiv.org/pdf/2206.11485
     image: ./assets/teaser/SEG22-ahmad-dhi.png
+    notes: (Oral)
 
   - title: A comparative study of transfer learning methodologies and causality for seismic inversion with temporal convolutional networks
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
@@ -29,6 +30,7 @@ main:
     pdf: https://eartharxiv.org/repository/object/5310/download/10457/
     code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: ./assets/teaser/SEG21-ahmad-non-causal.png
+    notes: (Virtual Oral)
 
   - title: Man-recon &colon; Manifold learning for reconstruction with deep autoencoder for smart seismic interpretation
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
@@ -37,6 +39,7 @@ main:
     pdf: https://arxiv.org/pdf/2212.07568
     code: https://github.com/amustafa9/active-learning-interpretation
     image: ./assets/teaser/ICIP21-ahmad-al.png
+    notes: (Virtual Poster)
 
   - title: Spatiotemporal modeling of seismic images for acoustic impedance estimation
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
@@ -45,6 +48,7 @@ main:
     pdf: https://arxiv.org/pdf/2006.15472
     code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: ./assets/teaser/SEG20-ahmad-spatiotemporal.png
+    notes: (Virtual Oral)
 
   - title: Joint learning for seismic inversion &colon; An acoustic impedance estimation case study
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
@@ -53,6 +57,7 @@ main:
     pdf: https://arxiv.org/pdf/2006.15474
     code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: ./assets/teaser/SEG20-ahmad-joint-learning.png
+    notes: (Virtual Oral)
 
   - title: Estimation of acoustic impedance from seismic data using temporal convolutional network
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Motaz Alfarraj, and Ghassan AlRegib
@@ -61,3 +66,4 @@ main:
     pdf: https://arxiv.org/pdf/1906.02684.pdf?trk=public_post_comment-text
     code: https://github.com/olivesgatech/Estimation-of-acoustic-impedance-from-seismic-data-using-temporal-convolutional-network
     image: ./assets/teaser/SEG21-ahmad-non-causal.png
+    notes: (Poster)
