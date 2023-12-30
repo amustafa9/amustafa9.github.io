@@ -5,19 +5,19 @@ main:
     right: true 
 
   - title: "Services"
-   url: ./#services
+    url: ./#services
 
   - title: "Talks"
-   url: ./#invited-talks
+    url: ./#invited-talks
 
   - title: "Teaching"
-   url: ./#teaching
+    url: ./#teaching
 
   - title: "Publications"
     url: ./#publications
 
   - title: "News"
-   url: ./#news
+    url: ./#news
 
   - title: "Bio"
     url: ./#about-me
