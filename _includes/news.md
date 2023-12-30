@@ -21,6 +21,7 @@ organized by the OLIVES and SLIM labs at Georgia Tech.</li>
 <li><strong>[April 2022]</strong> I was selected as the recipient of ECE's Outstanding Graduate Teaching Assistant Award.</li>
 <li><strong>[April 2022]</strong> I was awarded the Outstanding Online Head TA Award for ECE at the 2022 CTL Awards Ceremony.</li>
 <li><strong>[Sep. 2020]</strong> I was among the top 50 applicants to be awarded the registration discount for SEG Annual Meeting (held remotely that year).</li>
+<li><strong>[Jan. 2020]</strong> I was elected as the President of the SEG Student chapter at Georgia Tech in a preliminary meeting attended by Ghassan AlRegib's, Felix Hermann's, and Zhigang Peng's labs.</li>
 <li><strong>[Sep. 2019]</strong> I was awarded a fully funded travel grant to attent the SEG 2019 Annual Meeting held in San Anotnio, TX.</li>
 </div>
 
