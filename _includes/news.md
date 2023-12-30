@@ -12,7 +12,7 @@ organized by the OLIVES and SLIM labs at Georgia Tech.</li>
 <li><strong>[May 2023]</strong> I was selected as one of the five senior ECE PhD students selected as recipients for the <a href="https://ece.gatech.edu/news/2023/04/eces-2023-roger-p-webb-awards-celebrates-students-faculty-and-staff">ECE GRA Excellence Award 2023</a>.</li>
 <li><strong>[March 2023]</strong> I was selected as the recipient of the ECE's <a href="https://ece.gatech.edu/news/2023/07/new-graduate-fellowships-and-awards-promote-professional-development">CREATION</a> award in recognition of my contributions towards developing and improving ECE courses as a teaching assistant/instructor.</li>
 <li><strong>[Feb. 2023]</strong> Our manuscript on developing an active learning framework for interpretation was accepted for publication in the journal <a href="https://library.seg.org/doi/10.1190/geo2022-0353.1">Geophysics</a>.</li>
-<li><strong>[Feb. 2023]</strong> I gave a <a hred="https://www.gatech.edu/event/2023/02/10/csip-seminar-enhancing-geophysics-data-interpretation-through-human-loop-framework">talk</a> on human-in-the-loop AI for subsurface applications at the Center for Signal and Information Processing (CSIP) seminar held at Georgia Tech.</li>
+<li><strong>[Feb. 2023]</strong> I gave a <a href="https://www.gatech.edu/event/2023/02/10/csip-seminar-enhancing-geophysics-data-interpretation-through-human-loop-framework">talk</a> on human-in-the-loop AI for subsurface applications at the Center for Signal and Information Processing (CSIP) seminar held at Georgia Tech.</li>
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
