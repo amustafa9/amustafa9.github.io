@@ -10,6 +10,9 @@
     Graduate Instructor/Teaching Assistant, <a href="https://alregib.ece.gatech.edu/ece6258/">ECE 6258&colon;Digital Image Processing</a>, 2021 - 2022
   </li>
   <li>
+    Graduate Teaching Assistant, <a href="https://ece.gatech.edu/courses/ece2026">ECE 2026&colon;Introduction to Signal Processing</a>, 2020
+  </li>
+  <li>
     Graduate Teaching Assistant, <a href="https://ece.gatech.edu/courses/ece4271">ECE 4271&colon;Applications of Digital Signal Processing</a>, 2020
   </li>
   <li>
