@@ -5,7 +5,7 @@
 <h4 style="margin:0 10px 0;">Organization Committee</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>I served as President of the Georgia Tech's Society of Exploration Geophysicists (SEG) student chapter in 2020. As President, I was responsible for managing our social media pages and helped organize career development seminars and research talks.</li>
+  <li>I served as President of the <a href="https://www.facebook.com/SEGatGT/">Georgia Tech's Society of Exploration Geophysicists (SEG) student chapter</a> in 2020. As President, I was responsible for managing our social media pages and helped organize career development seminars and research talks.</li>
   <li>I helped organize logistics for the <a href="https://slim.gatech.edu/content/ML4Seismic-Partners-Meeting-Fall-2022">Annual ML4Seismic Partners Meeting 2022</a></li>
 </ul>
 
