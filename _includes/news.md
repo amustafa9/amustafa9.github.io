@@ -3,7 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Dec. 2023]</strong> Alhamdulillah I sucessfully passed my <a href="https://grad.gatech.edu/events/phd-dissertation-defense-ahmad-mustafa">PhD dissertation defense]() at Georgia Tech.</li>
+<li><strong>[Dec. 2023]</strong> Alhamdulillah I sucessfully passed my <a href="https://grad.gatech.edu/events/phd-dissertation-defense-ahmad-mustafa">PhD dissertation defense</a> at Georgia Tech.</li>
 <li><strong>[Nov. 2023]</strong> I delivered a talk on my work with modeling visual attention for fault interpretation at the Annual Ml4Seismic Partners Meeting 
 organized by the OLIVES and SLIM labs at Georgia Tech.</li>
 <li><strong>[Aug. 2023]</strong> I gave a talk on my work with modeling visual attention for fault interpretation at the <a href="https://www.imageevent.org/">International Meeting for Applied Geoscience and Energy (IMAGE)</a> in Houston, TX. </li>
