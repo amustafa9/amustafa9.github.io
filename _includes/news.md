@@ -3,18 +3,16 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[Dec. 2023]</strong> I will serve as an Area Chair of <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
-<li><strong>[Oct. 2023]</strong> I gave a talk on continual learning at <a href="https://bair.berkeley.edu/">BAIR, UC Berkeley</a>. </li>
-<li><strong>[Aug. 2023]</strong> I will serve as an Area Chair of <a href="https://cvpr.thecvf.com/">CVPR 2024</a>, <a href="https://iclr.cc/">ICLR 2024</a>, and <a href="https://aistats.org/aistats2024/">AISTATS 2024</a>.</li>
-<li><strong>[Aug. 2023]</strong> I will give a talk at <a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html">Purdue Computational Imaging Seminar</a>.</li>
-<li><strong>[May 2023]</strong> Our paper about <a href="https://arxiv.org/pdf/2306.00988.pdf">continual learning</a> is accepted to <a href="https://conferences.miccai.org/2023/en/">MICCAI 2023</a>.</li>
-<li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://calendars.illinois.edu/detail/2568?eventId=33456212">UIUC External Speaker Series</a>.</li>
-<li><strong>[Apr. 2023]</strong> I will give a talk on continual learning at <a href="https://sites.google.com/view/visionseminar">MIT Vision and Graphics Seminar</a>.</li>
-<li><strong>[Apr. 2023]</strong> I will serve as an Area Chair of <a href="https://www.auai.org/uai2023/">UAI 2023</a> and <a href="https://bmvc2023.rog/">BMVC 2023</a>.</li>
-<li><strong>[Mar. 2023]</strong> I will participate in the <a href="https://cvpr2023.thecvf.com/Conferences/2023/CallForDoctoralConsortium">CVPR 2023 Doctoral Consortium</a> with a travel award. </li>
-<li><strong>[Mar. 2023]</strong> I gave a talk on continual learning at <a href="https://vigr.cs.columbia.edu/vigr_seminar.html">Columbia VIGR Seminar</a>. </li>
-<li><strong>[Mar. 2023]</strong> I gave a talk on few-shot learning at EPFL. </li>
-<li><strong>[Feb. 2023]</strong> Two papers about <a href="./#publications">continual learning</a> are accepted to <a href="http://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
+<li><strong>[Dec. 2023]</strong> Alhamdulillah I sucessfully passed my <a href="https://grad.gatech.edu/events/phd-dissertation-defense-ahmad-mustafa">PhD dissertation defense]() at Georgia Tech.</li>
+<li><strong>[Nov. 2023]</strong> I delivered a talk on my work with modeling visual attention for fault interpretation at the Annual Ml4Seismic Partners Meeting 
+organized by the OLIVES and SLIM labs at Georgia Tech.</li>
+<li><strong>[Aug. 2023]</strong> I gave a talk on my work with modeling visual attention for fault interpretation at the <a href="https://www.imageevent.org/">International Meeting for Applied Geoscience and Energy (IMAGE)</a> in Houston, TX. </li>
+<li><strong>[June 2023]</strong> I started full time as an ML Engineer at OXY in Houston, TX.</li>
+<li><strong>[June 2023]</strong> Our manuscript on using Explainable Machine Learning for DHI characterization was accepted for publication in the journal <a href="https://library.seg.org/doi/10.1190/geo2022-0594.1">Geophysics</a>.</li>
+<li><strong>[May 2023]</strong> I was selected as one of the five senior ECE PhD students selected as recipients for the <a href="https://ece.gatech.edu/news/2023/04/eces-2023-roger-p-webb-awards-celebrates-students-faculty-and-staff">ECE GRA Excellence Award 2023</a>.</li>
+<li><strong>[March 2023]</strong> I was selected as the recipient of the ECE's <a href="https://ece.gatech.edu/news/2023/07/new-graduate-fellowships-and-awards-promote-professional-development">CREATION</a> award in recognition of my contributions towards developing and improving ECE courses as a teaching assistant/instructor.</li>
+<li><strong>[Feb. 2023]</strong> Our manuscript on developing an active learning framework for interpretation was accepted for publication in the journal <a href="https://library.seg.org/doi/10.1190/geo2022-0353.1">Geophysics</a>.</li>
+<li><strong>[Feb. 2023]</strong> I gave a <a hred="https://www.gatech.edu/event/2023/02/10/csip-seminar-enhancing-geophysics-data-interpretation-through-human-loop-framework">talk</a> on human-in-the-loop AI for subsurface applications at the Center for Signal and Information Processing (CSIP) seminar held at Georgia Tech.</li>
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
