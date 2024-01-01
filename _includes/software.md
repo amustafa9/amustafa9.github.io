@@ -13,9 +13,9 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title">Training Machine Learning Models for Interpretation in Missing Label Settings</div>
-    <div class="links">
-      I talk about this project here.
-    </div>
+    
+    <p>  I talk about this project here. </p>
+    
   </div>
 </div>
 </li>
