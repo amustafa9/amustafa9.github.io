@@ -18,7 +18,7 @@ My research lies at the intersection of machine learning and seismic interpretat
 
 {% include_relative _includes/talks.md %}
 
-{% include_relative _includes/software.md %}
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/teaching.md %}
 
