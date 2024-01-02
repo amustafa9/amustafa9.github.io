@@ -4,9 +4,6 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Projects"
-    url: ./#projects
-
   - title: "Services"
     url: ./#services
 
