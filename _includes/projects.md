@@ -1,5 +1,5 @@
-<h1 id="Projects"></h1>
-<h2 style="margin: 60px 0px 10px;">Software and Codes</h2>
+<h1 id="projects"></h1>
+<h2 style="margin: 60px 0px 10px;">Projects</h2>
 
 
 
