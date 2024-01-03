@@ -6,6 +6,7 @@ main:
     conference: SEG International Exposition and Annual Meeting, 2023.
     pdf: https://library.seg.org/doi/abs/10.1190/image2023-3916797.1
     image: ./assets/teaser/SEG23-prithwijit-counterfactual.png
+    bibtex: ./assets/bibtex/seg-counterfactual.txt
   
   - title: Patient aware active learning for fine-grained oct classification
     authors: Yash-yee Logan<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, Ryan Benkert, <strong>Ahmad Mustafa</strong>, and Ghassan AlRegib
@@ -14,6 +15,7 @@ main:
     pdf: https://arxiv.org/pdf/2206.11485
     code: https://github.com/olivesgatech/Patient-Aware-Active-Learning
     image: ./assets/teaser/ICIP-yashyee-patient-aware.png
+    bibtex: ./assets/bibtex/icip-patient-aware.txt
 
   - title: Explainable machine learning for hydrocarbon prospect risking
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong> and Ghassan AlRegib
@@ -21,6 +23,7 @@ main:
     conference: SEG International Exposition and Annual Meeting, 2022.
     pdf: https://arxiv.org/pdf/2206.11485
     image: ./assets/teaser/SEG22-ahmad-dhi.png
+    bibtex: ./assets/bibtex/seg-xai.txt
     notes: (Oral)
 
   - title: A comparative study of transfer learning methodologies and causality for seismic inversion with temporal convolutional networks
@@ -30,6 +33,7 @@ main:
     pdf: https://eartharxiv.org/repository/object/5310/download/10457/
     code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: ./assets/teaser/SEG21-ahmad-non-causal.png
+    bibtex: ./assets/bibtex/seg-comparative-inversion.txt
     notes: (Virtual Oral)
 
   - title: Man-recon &colon; Manifold learning for reconstruction with deep autoencoder for smart seismic interpretation
@@ -39,6 +43,7 @@ main:
     pdf: https://arxiv.org/pdf/2212.07568
     code: https://github.com/amustafa9/active-learning-interpretation
     image: ./assets/teaser/ICIP21-ahmad-al.png
+    bibtex: ./assets/bibtex/icip-al.txt
     notes: (Virtual Poster)
 
   - title: Spatiotemporal modeling of seismic images for acoustic impedance estimation
@@ -48,6 +53,7 @@ main:
     pdf: https://arxiv.org/pdf/2006.15472
     code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: ./assets/teaser/SEG20-ahmad-spatiotemporal.png
+    bibtex: ./assets/bibtex/seg-spatiotemporal.txt
     notes: (Virtual Oral)
 
   - title: Joint learning for seismic inversion &colon; An acoustic impedance estimation case study
@@ -57,6 +63,7 @@ main:
     pdf: https://arxiv.org/pdf/2006.15474
     code: https://github.com/amustafa9/spatial-joint-inversion-tcn
     image: ./assets/teaser/SEG20-ahmad-joint-learning.png
+    bibtex: ./assets/bibtex/seg-joint-learn.txt
     notes: (Virtual Oral)
 
   - title: Estimation of acoustic impedance from seismic data using temporal convolutional network
@@ -66,4 +73,5 @@ main:
     pdf: https://arxiv.org/pdf/1906.02684.pdf?trk=public_post_comment-text
     code: https://github.com/olivesgatech/Estimation-of-acoustic-impedance-from-seismic-data-using-temporal-convolutional-network
     image: ./assets/teaser/SEG21-ahmad-non-causal.png
+    bibtex: ./assets/bibtex/seg-tcn.txt
     notes: (Poster)
