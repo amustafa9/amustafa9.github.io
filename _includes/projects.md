@@ -46,7 +46,8 @@ Performance of the facies segmentation model is recorded in terms of the mean in
 <h4 style="margin: 10px 10px 10px 0px;">Codes</h4>
 Codes related to this project can be found at <a href="https://github.com/olivesgatech/active-learning-interpretation">this GitHub repository</a>. Detailed instructions regarding the running of the codes and installing related dependencies are provided.
 <h4 style="margin: 10px 10px 10px 0px;">Related Publications</h4>
-More information on this work can be found in the following publidations:
+More information on this work can be found in the following publidations: 
+<br>
 1. Mustafa, Ahmad, and Ghassan AlRegib. "Man-recon: Manifold learning for reconstruction with deep autoencoder for smart seismic interpretation." In 2021 IEEE International Conference on Image Processing (ICIP), pp. 2953-2957. IEEE, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9506657"> [Link] </a> <a href="https://arxiv.org/pdf/2212.07568.pdf"> [PDF] </a> 
 <br>
 2. Mustafa, Ahmad, and Ghassan AlRegib. "Active learning with deep autoencoders for seismic facies interpretation." Geophysics 88, no. 4 (2023): IM77-IM86. <a href="https://library.seg.org/doi/am-pdf/10.1190/geo2022-0353.1"> [Link] </a> <a href="https://eartharxiv.org/repository/view/5308/"> [PDF] </a> 
