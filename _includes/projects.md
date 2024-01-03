@@ -30,9 +30,15 @@ Machine learning-assisted seismic interpretation tasks require large quantities 
 <div id="more-content">
 By jointly learning representations for supervised and unsupervised tasks and then ranking unlabeled samples by their nearness to the data manifold, we are able to identify the most relevant training samples to be labeled by the interpreter in each training round. This is shown in the figure below. On the popular F3 dataset, we obtain close to 10 percentage point difference in terms of interpretation accuracy between the proposed method and the baseline with only three fully annotated seismic sections.
 
-<h4 style="margin: 0px 10px 10px;">Results</h4>
-<h4 style="margin: 0px 10px 10px;">Codes</h4>
-<h4 style="margin: 0px 10px 10px;">Related Publications</h4>
+<h4 style="margin: 0px 10px 10px 0px;">Results</h4>
+<h4 style="margin: 0px 10px 10px 0px;">Codes</h4>
+Codes related to this project can be found at <a href="https://github.com/olivesgatech/active-learning-interpretation">this GitHub repository</a>. Detailed instructions regarding the running of the codes and installing related dependencies are provided.
+<h4 style="margin: 0px 10px 10px 0px;">Related Publications</h4>
+More information on this work can be found in the following publidations:
+<ol>
+    <li> Mustafa, Ahmad, and Ghassan AlRegib. "Man-recon: Manifold learning for reconstruction with deep autoencoder for smart seismic interpretation." In 2021 IEEE International Conference on Image Processing (ICIP), pp. 2953-2957. IEEE, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9506657"> [Link] </a> <a href="https://arxiv.org/pdf/2212.07568.pdf"> [PDF] </a>
+    <li> Mustafa, Ahmad, and Ghassan AlRegib. "Active learning with deep autoencoders for seismic facies interpretation." Geophysics 88, no. 4 (2023): IM77-IM86. <a href="https://library.seg.org/doi/am-pdf/10.1190/geo2022-0353.1"> [Link] </a> <a href="https://eartharxiv.org/repository/view/5308/"> [PDF] </a>
+</ol>    
 </div>
 
 <h3 style="margin: 10px 10px 10px;">Active Learning</h3>
