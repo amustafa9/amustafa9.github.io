@@ -1,0 +1,8 @@
+@inproceedings{logan2022patient,
+  title={Patient aware active learning for fine-grained oct classification},
+  author={Logan, Yash-yee and Benkert, Ryan and Mustafa, Ahmad and AlRegib, Ghassan},
+  booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
+  pages={3908--3912},
+  year={2022},
+  organization={IEEE}
+}

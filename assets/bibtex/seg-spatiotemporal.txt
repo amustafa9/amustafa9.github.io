@@ -1,0 +1,6 @@
+@inproceedings{mustafa2020spatiotemporal,
+  title={Spatiotemporal modeling of seismic images for acoustic impedance estimation: 90th Annual International Meeting, SEG, Expanded Abstracts, 1735--1739, doi: 10.1190/segam2020-3428298.1},
+  author={Mustafa, A and Alfarraj, M and AlRegib, G},
+  year={2020},
+  organization={Abstract}
+}

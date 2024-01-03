@@ -1,0 +1,8 @@
+@incollection{mustafa2020joint,
+  title={Joint learning for seismic inversion: An acoustic impedance estimation case study},
+  author={Mustafa, Ahmad and AlRegib, Ghassan},
+  booktitle={SEG Technical Program Expanded Abstracts 2020},
+  pages={1686--1690},
+  year={2020},
+  publisher={Society of Exploration Geophysicists}
+}

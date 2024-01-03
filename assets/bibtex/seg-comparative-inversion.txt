@@ -1,0 +1,8 @@
+@inproceedings{mustafa2021comparative,
+  title={A comparative study of transfer learning methodologies and causality for seismic inversion with temporal convolutional networks},
+  author={Mustafa, Ahmad and AlRegib, Ghassan},
+  booktitle={SEG International Exposition and Annual Meeting},
+  pages={D011S067R001},
+  year={2021},
+  organization={SEG}
+}

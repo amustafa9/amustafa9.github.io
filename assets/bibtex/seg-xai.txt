@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+@inbook{doi:10.1190/image2022-3752055.1,
+author = {Ahmad Mustafa and Ghassan AlRegib},
+title = {Explainable machine learning for hydrocarbon prospect risking},
+booktitle = {Second International Meeting for Applied Geoscience \&amp; Energy},
+chapter = {},
+pages = {1825-1829},
+year = {2022},
+doi = {10.1190/image2022-3752055.1},
+URL = {https://library.seg.org/doi/abs/10.1190/image2022-3752055.1},
+eprint = {https://library.seg.org/doi/pdf/10.1190/image2022-3752055.1}
+}

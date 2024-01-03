@@ -1,0 +1,8 @@
+@inproceedings{chowdhury2023counterfactual,
+  title={Counterfactual uncertainty for high dimensional tabular dataset},
+  author={Chowdhury, Prithwijit and Mustafa, Ahmad and Prabhushankar, Mohit and AlRegib, Ghassan},
+  booktitle={SEG International Exposition and Annual Meeting},
+  pages={SEG--2023},
+  year={2023},
+  organization={SEG}
+}

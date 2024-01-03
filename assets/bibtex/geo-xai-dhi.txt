@@ -1,0 +1,10 @@
+@article{mustafa2023explainable,
+  title={Explainable machine learning for hydrocarbon prospect risking},
+  author={Mustafa, Ahmad and Koster, Klaas and AlRegib, Ghassan},
+  journal={Geophysics},
+  volume={89},
+  number={1},
+  pages={WA13--WA24},
+  year={2023},
+  publisher={Society of Exploration Geophysicists}
+}

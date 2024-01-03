@@ -1,0 +1,10 @@
+@article{mustafa2023active,
+  title={Active learning with deep autoencoders for seismic facies interpretation},
+  author={Mustafa, Ahmad and AlRegib, Ghassan},
+  journal={Geophysics},
+  volume={88},
+  number={4},
+  pages={IM77--IM86},
+  year={2023},
+  publisher={Society of Exploration Geophysicists}
+}

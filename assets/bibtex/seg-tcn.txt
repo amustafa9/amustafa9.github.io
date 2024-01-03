@@ -1,0 +1,8 @@
+@incollection{mustafa2019estimation,
+  title={Estimation of acoustic impedance from seismic data using temporal convolutional network},
+  author={Mustafa, Ahmad and Alfarraj, Motaz and AlRegib, Ghassan},
+  booktitle={SEG Technical Program Expanded Abstracts 2019},
+  pages={2554--2558},
+  year={2019},
+  publisher={Society of Exploration Geophysicists}
+}

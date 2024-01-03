@@ -1,0 +1,8 @@
+@inproceedings{mustafa2021man,
+  title={Man-recon: Manifold learning for reconstruction with deep autoencoder for smart seismic interpretation},
+  author={Mustafa, Ahmad and AlRegib, Ghassan},
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
+  pages={2953--2957},
+  year={2021},
+  organization={IEEE}
+}

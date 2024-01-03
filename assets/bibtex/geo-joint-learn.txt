@@ -1,0 +1,10 @@
+@article{mustafa2021joint,
+  title={Joint learning for spatial context-based seismic inversion of multiple data sets for improved generalizability and robustness},
+  author={Mustafa, Ahmad and Alfarraj, Motaz and AlRegib, Ghassan},
+  journal={Geophysics},
+  volume={86},
+  number={4},
+  pages={O37--O48},
+  year={2021},
+  publisher={Society of Exploration Geophysicists}
+}
