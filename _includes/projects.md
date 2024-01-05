@@ -72,7 +72,7 @@ Fault interpretation is carried out using a model trained in the proposed manner
 </figure>
 
 <figure>
-    <img src="./assets/img/attention_comparison_2.png" alt="Alt Text for Image 1">
+    <img src="./assets/img/attention_comparison_3.png" alt="Alt Text for Image 1">
     <figcaption>Performance curves for the proposed and baseline training startegies on a seismic section from the test set.</figcaption>
 </figure>
 
