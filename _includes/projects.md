@@ -22,7 +22,7 @@
 
 
 
-<h3 style="margin: 0px 10px 10px 0px;">Efficient Training Sample Selection for Seismic Interpretation using Active Learning</h3>
+<h3 style="margin: 0px 10px 10px 0px;">1. Efficient Training Sample Selection for Seismic Interpretation using Active Learning</h3>
 <img src="./assets/teaser/geo-al.png" class="teaser img-fluid z-depth-1" style="width=100%;height=100%">
 Machine learning-assisted seismic interpretation tasks require large quantities of labeled data annotated by expert interpreters, which is a costly and time-consuming process. Where existing works to minimize dependence on labeled data assume the data annotation process to already be completed, active learning---a field of machine learning---works by selecting the most important training samples for the interpreter to annotate in real time simultaneously with the training of the interpretation model itself, thereby reducing cost and effort to produce annotated training samples while minimizing the negative impact on performance. We develop a unique and first-of-a-kind active learning framework for seismic facies interpretation using the manifold learning properties of deep autoencoders. 
 
@@ -54,7 +54,7 @@ More information on this work can be found in the following publidations:
 
 <!-- Next research item. -->
 
-<h3 style="margin: 10px 10px 10px 0px;">Learning under Sparse, Missing Labels for Structure Interpretation via Visual Attention Modeling</h3>
+<h3 style="margin: 10px 10px 10px 0px;">2. Learning under Sparse, Missing Labels for Structure Interpretation via Visual Attention Modeling</h3>
 <img src="./assets/img/attention_mechanisms.PNG" class="teaser img-fluid z-depth-1" style="width=100%;height=100%">
 Accurate interpretation of visual data for relevant information forms an important component of many real-world applications such as medical disease diagnosis, geological hazard assessment, hydrocarbon exploration, etc. Producing fine-grained annotations on images is an expensive, laborious, and time-consuming process. The human brain is wired to selectively focus its attention on certain aspects of the visual scene. This perception mechanism is driven both by low-level signal cues, such as changes in color, contrast, intensity, shapes etc., as well as high-level cognitive factors such as one’s prior knowledge, goals, expectations, and constraints with respect to the task at hand. 
 
