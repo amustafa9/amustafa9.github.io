@@ -61,7 +61,6 @@ Accurate interpretation of visual data for relevant information forms an importa
 
 <p id="show-more-link" onclick="toggleContent()">Show more</p>
 <div id="more-content">
-
 These attentional factors, referred to as bottom-up and top-down attention respectively, play an important role in determining the final annotations that get produced for a given visual scene, often at the cost of leaving out a lot of visual information the brain deems to be unimportant with regard to the task of interest. Mapping geological faults on 3D seismic volumes is one such application where human attention selectivity results in highly incomplete fault annotations. Conventional supervised learning methods treat regions of missed fault labels as negatives, resulting in non-optimal learning for the machine learning model. We propose a method to model visual attention and incorporate it into data sampling and model training procedures. We demonstrate the utility of this approach for mapping faults on seismic volumes using pretrained 3D convolutional neural networks (CNNs). Using an annotated seismic dataset from NW Australia, we show quantitatively and qualitatively that modeling visual attention leads to significant performance gains even with limited, incompletely labeled seismic training data.
 
 
@@ -84,7 +83,6 @@ Codes related to this project can be found at <a href="https://github.com/amusta
 More information regarding the work can be accessed at the publications below:
 <br>
 1. A. Mustafa, R. Rastegar, T. Brown, G. Nunes, D. De Lilla, and G. AlRegib, "Adaptive Finetuning of 3D CNNs With Interpretation Uncertainty for Seismic Fault Prediction," in IEEE Transactions of Geoscience and Remote Sensing. <p><span style="color: red;">(Undergoing Review)</span></p> <a href="https://eartharxiv.org/repository/view/5558/">[Preprint]<>
-
 </div>
 
 <script>
