@@ -56,7 +56,7 @@ More information on this work can be found in the following publidations:
 <!-- Next research item. -->
 
 <h3 style="margin: 10px 10px 10px 0px;">Learning under Sparse, Missing Labels for Structure Interpretation via Visual Attention Modeling</h3>
-<img src="./assets/teaser/geo-al.png" class="teaser img-fluid z-depth-1" style="width=100%;height=100%">
+<img src="./assets/img/attention_mechanisms.PNG" class="teaser img-fluid z-depth-1" style="width=100%;height=100%">
 Accurate interpretation of visual data for relevant information forms an important component of many real-world applications such as medical disease diagnosis, geological hazard assessment, hydrocarbon exploration, etc. Producing fine-grained annotations on images is an expensive, laborious, and time-consuming process. The human brain is wired to selectively focus its attention on certain aspects of the visual scene. This perception mechanism is driven both by low-level signal cues, such as changes in color, contrast, intensity, shapes etc., as well as high-level cognitive factors such as one’s prior knowledge, goals, expectations, and constraints with respect to the task at hand. 
 
 <p id="show-more-link" onclick="toggleContent()">Show more</p>
@@ -66,16 +66,16 @@ These attentional factors, referred to as bottom-up and top-down attention respe
 
 
 <h4 style="margin: 10px 10px 10px 0px;">Results</h4>
-Performance of the facies segmentation model is recorded in terms of the mean intersection-over-union (mIOU) at the end of every cyle and plotted for the proposed sampling method as well as other sampling techniques. This includes the well known active learning method based on entropy as well as non-active learning techniques commonly used by seismic interpreters. These plots for both training and test splits are given below.
+Fault interpretation is carried out using a model trained in the proposed manner (i.e., attention modeling) and also using models trained without modeling visual attention. The proposed approach can be seen to outperform baseline strategies even when trained on data with highly incomplete labels.
 
 <figure>
-    <img src="./assets/img/miou_train.png" alt="Alt Text for Image 1">
-    <figcaption>Performance curves for the proposed and baseline sampling techniques on the training split.</figcaption>
+    <img src="./assets/img/attention_comparison_1.png" alt="Alt Text for Image 1">
+    <figcaption>Performance curves for the proposed and baseline training startegies on a seismic section from the test set.</figcaption>
 </figure>
 
 <figure>
-    <img src="./assets/img/miou_test.png" alt="Alt Text for Image 1">
-    <figcaption>Performance curves for the proposed and baseline sampling techniques on the test split.</figcaption>
+    <img src="./assets/img/attention_comparison_2.png" alt="Alt Text for Image 1">
+    <figcaption>Performance curves for the proposed and baseline training startegies on a seismic section from the test set.</figcaption>
 </figure>
 
 <h4 style="margin: 10px 10px 10px 0px;">Codes</h4>
