@@ -81,7 +81,7 @@ Codes related to this project can be found at <a href="https://github.com/amusta
 <h4 style="margin: 10px 10px 10px 0px;">Related Publications</h4>
 More information regarding the work can be accessed at the publications below:
 <br>
-1. A. Mustafa, R. Rastegar, T. Brown, G. Nunes, D. De Lilla, and G. AlRegib, "Adaptive Finetuning of 3D CNNs With Interpretation Uncertainty for Seismic Fault Prediction," in IEEE Transactions of Geoscience and Remote Sensing. <a href="https://eartharxiv.org/repository/view/5558/">[Preprint]</a>
+1. A. Mustafa, R. Rastegar, T. Brown, G. Nunes, D. De Lilla, and G. AlRegib, "Adaptive Finetuning of 3D CNNs With Interpretation Uncertainty for Seismic Fault Prediction," in IEEE Transactions of Geoscience and Remote Sensing. <a href="https://eartharxiv.org/repository/view/5558/">[Preprint] </a>
 </div>
 
 <script>
