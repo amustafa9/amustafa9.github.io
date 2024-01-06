@@ -5,8 +5,8 @@
         .toggleable-content {
             display: none;
             border: none;
-            padding: 10px;
-            margin: 10px;
+            padding: 0px;
+            margin: 0px;
         }
 
         .toggle-text {
