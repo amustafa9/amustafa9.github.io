@@ -26,6 +26,7 @@
 <img src="./assets/teaser/geo-al.png" class="teaser img-fluid z-depth-1" style="width=100%;height=100%">
 Machine learning-assisted seismic interpretation tasks require large quantities of labeled data annotated by expert interpreters, which is a costly and time-consuming process. Where existing works to minimize dependence on labeled data assume the data annotation process to already be completed, active learning---a field of machine learning---works by selecting the most important training samples for the interpreter to annotate in real time simultaneously with the training of the interpretation model itself, thereby reducing cost and effort to produce annotated training samples while minimizing the negative impact on performance. We develop a unique and first-of-a-kind active learning framework for seismic facies interpretation using the manifold learning properties of deep autoencoders. 
 
+<span class="toggle-text" onclick="toggleContent('content1')">Show more</span>
 <div class="toggleable-content" id="content1">
 By jointly learning representations for supervised and unsupervised tasks and then ranking unlabeled samples by their nearness to the data manifold, we are able to identify the most relevant training samples to be labeled by the interpreter in each training round. This is shown in the figure below. On the popular F3 dataset, we obtain close to 10 percentage point difference in terms of interpretation accuracy between the proposed method and the baseline with only three fully annotated seismic sections.
 
@@ -50,7 +51,6 @@ More information on this work can be found in the following publidations:
 1. Mustafa, Ahmad, and Ghassan AlRegib. "Man-recon: Manifold learning for reconstruction with deep autoencoder for smart seismic interpretation." In 2021 IEEE International Conference on Image Processing (ICIP), pp. 2953-2957. IEEE, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9506657"> [Link] </a> <a href="https://arxiv.org/pdf/2212.07568.pdf"> [PDF] </a> 
 <br>
 2. Mustafa, Ahmad, and Ghassan AlRegib. "Active learning with deep autoencoders for seismic facies interpretation." Geophysics 88, no. 4 (2023): IM77-IM86. <a href="https://library.seg.org/doi/am-pdf/10.1190/geo2022-0353.1"> [Link] </a> <a href="https://eartharxiv.org/repository/view/5308/"> [PDF] </a> 
-<span class="toggle-text" onclick="toggleContent('content1')">Show more</span>
 </div>
 
 <!-- Next research item. -->
