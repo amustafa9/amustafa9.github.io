@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Jan. 2024]</strong> My paper <a href="https://library.seg.org/doi/10.1190/geo2022-0594.1">Explainable Machine Learning for Hydrocarbon prospect Risking</a> has featured among 23 other technical articles selected for the <a href="https://pubs.geoscienceworld.org/geophysics/article-abstract/doi/10.1190/geo2023-1116-spseintro.1/632016/Latest-advancements-in-machine-learning-for?redirectedFrom=fulltext">machine learning special section</a> of the Januray-February edition of Geophysics.</li>
 <li><strong>[Dec. 2023]</strong> Alhamdulillah I sucessfully passed my <a href="https://grad.gatech.edu/events/phd-dissertation-defense-ahmad-mustafa">PhD dissertation defense</a> at Georgia Tech.</li>
 <li><strong>[Nov. 2023]</strong> I delivered a talk on my work with modeling visual attention for fault interpretation at the Annual Ml4Seismic Partners Meeting 
 organized by the OLIVES and SLIM labs at Georgia Tech.</li>
