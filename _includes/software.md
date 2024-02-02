@@ -22,6 +22,7 @@
 
 <h3 style="margin: 0px 10px 10px 0px;">1. <a href="https://github.com/amustafa9/SeisWiz">amustafa9/SeisWiz</a></h3>
 <img src="./assets/teaser/basic_mode_grayscale.gif" class="teaser img-fluid z-depth-1" style="width=100%;height=100%">
+
 The ultimate lightweight Matplotlib-based seismic volume viewer with multi-view support and horizon visualization capabilities. 
 
 <script>
