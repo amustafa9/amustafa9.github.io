@@ -2,9 +2,9 @@ main:
 
   - title: Visual Attention Guided Learning with Incomplete Labels for Seismic Fault Interpretation
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Reza Rastegar, Tim Brown, Gregory Nunes, Daniel De Lilla, and Ghassan AlRegib
-    conference_short: Preprint
-    conference: Under review.
-    pdf: https://eartharxiv.org/repository/view/5558/
+    conference_short: IEEE Transactions of Geoscience and Remote Sensing (TGRS)
+    conference: IEEE TGRS, vol. 62, pp. 1-12, 2024.
+    pdf: https://drive.google.com/file/d/1wjpv8Xj76ZOp-2mKiRHjeFe5jK2SRWYK/view?usp=drive_link
     code: https://github.com/amustafa9/attention-fault-interpretation
     image: ./assets/teaser/tgrs-fault-attention.png
 
