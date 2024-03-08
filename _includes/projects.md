@@ -81,7 +81,7 @@ Codes related to this project can be found at <a href="https://github.com/amusta
 <h4 style="margin: 10px 10px 10px 0px;">Related Publications</h4>
 More information regarding the work can be accessed at the publications below:
 <br>
-1. A. Mustafa, R. Rastegar, T. Brown, G. Nunes, D. De Lilla, and G. AlRegib, "Visual Attention Guided Learning with Incomplete Labels for Seismic Fault Interpretation," in IEEE Transactions of Geoscience and Remote Sensing, 2023. <span style="color: red;">(Undergoing Review)</span> <a href="https://eartharxiv.org/repository/view/5558/">[Preprint] </a>
+1. A. Mustafa, R. Rastegar, T. Brown, G. Nunes, D. Delilla and G. Alregib, "Visual Attention-Guided Learning With Incomplete Labels for Seismic Fault Interpretation," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-12, 2024. <a href="https://drive.google.com/file/d/1wjpv8Xj76ZOp-2mKiRHjeFe5jK2SRWYK/view?usp=drive_link">[Full Text]</a>
 </div>
 
 <script>
