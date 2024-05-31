@@ -20,4 +20,6 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://library.seg.org/journal/gpysa7"><autocolor>Geophysics</autocolor></a></li>
   <li><a href="https://library.seg.org/journal/inteio"><autocolor>Interpretation</autocolor></a></li>
+ <li><a href="https://www.grss-ieee.org/publications/transactions-on-geoscience-remote-sensing/"><autocolor>IEEE Transactions of Geoscience and Remote Sensing (TGRS)</autocolor></a></li>
+<li><a href="https://link.springer.com/journal/12145"><autocolor>Earth Science Informatics</autocolor></a></li>
 </ul>
