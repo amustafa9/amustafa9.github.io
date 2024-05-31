@@ -13,8 +13,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://2022.ieeeicip.org/"><autocolor>IEEE International Conference on Image Processing (ICIP)</autocolor></a></li>
-<ul style="margin:0 0 5px;">
-  <li><a href="https://www.imageevent.org/"><autocolor>The International Meeting for
+<li><a href="https://www.imageevent.org/"><autocolor>The International Meeting for
 Applied Geoscience & Energy (IMAGE 24)</autocolor></a></li>
 </ul>
 
