@@ -8,6 +8,12 @@ main:
     code: https://github.com/amustafa9/attention-fault-interpretation
     image: ./assets/teaser/tgrs-fault-attention.png
 
+  - title: A unified framework for evaluating robustness of Machine Learning Interpretability for Prospect Risking
+    authors: Prithwijit Chowdhury, <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Mohit Prabhushankar, and Ghassan AlRegib
+    conference_short: Geophysics
+    conference: Geophysics (2024) (under review).
+    image: ./assets/teaser/geo-xai-dhi.png
+
   - title: Explainable machine learning for hydrocarbon prospect risking
     authors: <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Klaas Koster, and Ghassan AlRegib
     conference_short: Geophysics
