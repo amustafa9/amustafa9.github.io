@@ -1,5 +1,12 @@
 main:
 
+  - title: CRACKS: Crowdsourcing Resources for Analysis and Categorization of Key Subsurface faults
+    authors: Mohit Prabhushankar<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, Kiran Premdat Kokilepersaud, Jorge Quesada, Yavuz Yarici, Chen Zhou, Mohammad Alotaibi, Ghassan AlRegib, <strong>Ahmad Mustafa</strong>, Yusufjon Kumakov
+    conference_short: Neurips
+    conference: NeurIPS 2024 Datasets and Benchmarks, 2024 (under review).
+    code: https://github.com/olivesgatech/CRACKS
+    image: ./assets/teaser/cracks.png
+
   - title: Counterfactual uncertainty for high dimensional tabular dataset
     authors: Prithwijit Chowdhury<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>, <strong>Ahmad Mustafa</strong>, Mohit Prabhushankar, and Ghassan AlRegib
     conference_short: IMAGE
