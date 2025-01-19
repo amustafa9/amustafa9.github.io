@@ -4,6 +4,9 @@
 
 <ul>
 <li>
+"Theory to Practice: AI and ML in Subsurface Exploration" at Society of Petroleum Engineers (SPE) UET Seminar Series, January 2025. <a href="https://www.linkedin.com/posts/spe-uet-lsc_speuetlc-aiinsubsurface-mlinsubsurface-activity-7285281024245129216-MJf0/?utm_source=share&utm_medium=member_android">[Link]</a>.
+</li>
+<li>
  "Modeling Visual Attention for Seismic Interpretation with Incomplete Labels" at the Annual ML4Seismic Partners Meeting, November 2023 <a href="https://slim.gatech.edu/content/ML4Seismic-Partners-Meeting-Fall-2023">[Website]</a>.
 </li>
 <li>
