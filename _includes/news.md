@@ -3,6 +3,10 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[Jan. 2024]</strong> I delivered an invited talk titled "Theory to Practice: AI and ML in Subsurface Exploration" at the SPE Seminar Series at the University of Engineering and Technology, Lahore.</li>
+<li><strong>[Jan. 2024]</strong> Our paper titled "A unified framework for evaluating robustness of Machine Learning Interpretability for Prospect Risking" has been accepted for publication to Geophysics.</li>
+<li><strong>[Dec. 2024]</strong> I was invited to deliver a 2-day short course titled, "Artificial Intelligence for Accelerating Subsurface Characterization: From
+ Theory to Practice" to a team of OGDCL geophysicists at the Oil and Gas Training Institute, Islamabad.</li>
 <li><strong>[Feb. 2024]</strong> Our paper <a href="https://ieeexplore.ieee.org/document/10449677">"Visual Attention-Guided Learning With Incomplete Labels for Seismic Fault Interpretation"</a> has been accepted for publication in IEEE Transactions of Geoscience and Remote Sensing (TGRS). </li>
 <li><strong>[Feb. 2024]</strong> I will be delivering a talk on the application of Machine and Deep Learning to Geophysics problems to a study group at Oxy.</li>
 <li><strong>[Jan. 2024]</strong> My paper <a href="https://library.seg.org/doi/10.1190/geo2022-0594.1">Explainable Machine Learning for Hydrocarbon prospect Risking</a> has featured among 23 other technical articles selected for the <a href="https://pubs.geoscienceworld.org/geophysics/article-abstract/doi/10.1190/geo2023-1116-spseintro.1/632016/Latest-advancements-in-machine-learning-for?redirectedFrom=fulltext">machine learning special section</a> of the Januray-February edition of Geophysics.</li>
