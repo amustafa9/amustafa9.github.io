@@ -11,7 +11,7 @@ main:
   - title: A unified framework for evaluating robustness of Machine Learning Interpretability for Prospect Risking
     authors: Prithwijit Chowdhury, <strong>Ahmad Mustafa<sup><i class="fa-regular fa-envelope fa-xs"></i></sup></strong>, Mohit Prabhushankar, and Ghassan AlRegib
     conference_short: Geophysics
-    conference: Geophysics (2024) (under review).
+    conference: Geophysics, vol. 90, issue 3 (2025)
     image: ./assets/teaser/geo-xai-dhi.png
 
   - title: Explainable machine learning for hydrocarbon prospect risking
