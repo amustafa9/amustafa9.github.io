@@ -1,7 +1,7 @@
 # Basic Information 
 title: Ahmad Mustafa, PhD
-position: Machine Learning and Analytics Engineer
-affiliation: Occidental Petroleum
+position: Machine Learning Researcher
+affiliation: Georgia Institute of Technology 
 affiliation_link: 
 affiliation_logo: 
 email: ahmadmustafa(dot)am(at)gmail.com
@@ -9,10 +9,10 @@ email: ahmadmustafa(dot)am(at)gmail.com
 # Search Engine Optimization (SEO)
 keywords: ahmad mustafa, mustafa ahmad, amustafa9
 canonical: 
-description: Ahmad Mustafa is currently an ML Engineer at OXY based in Houston, TX. He holds PhD and Masters degrees in Electrical Engineering at the Georgia Institute of Technology.
+description: Ahmad Mustafa is a Researcher in Machine/Deep Learning. He holds PhD and Masters degrees in Electrical Engineering at the Georgia Institute of Technology.
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
