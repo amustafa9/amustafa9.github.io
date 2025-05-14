@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[May 2025]</strong> Our abstract titled "Interactive Seismic Facies Segmentation using Multi-Attribute Seismic Data" has been accepted for a poster presentation at IMAGE 25 Exhibition and Conference.</li>
 <li><strong>[Jan. 2025]</strong> I delivered an invited talk titled "Theory to Practice: AI and ML in Subsurface Exploration" at the SPE Seminar Series at the University of Engineering and Technology, Lahore.</li>
 <li><strong>[Jan. 2025]</strong> Our paper titled "A unified framework for evaluating robustness of Machine Learning Interpretability for Prospect Risking" has been accepted for publication to Geophysics.</li>
 <li><strong>[Dec. 2024]</strong> I was invited to deliver a 2-day short course titled, "Artificial Intelligence for Accelerating Subsurface Characterization: From
